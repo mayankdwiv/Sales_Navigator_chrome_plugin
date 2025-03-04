@@ -1,4 +1,4 @@
-# 🚀 Blockchain Miner
+# 🚀 Bitcoin Mining
 
 ## 📌 Overview
 This is a **basic blockchain mining simulation** implemented in Python. It creates a blockchain where each block contains transactions, a hash, and a proof-of-work mechanism. The program simulates mining blocks with increasing difficulty.
